@@ -1,0 +1,5 @@
+#This is an implementation of an MCTS tree
+#being used to make a bot.
+#The framework code provided for the game 
+#and enemy bot was provided by Dan Shapiro
+#as an assignment at UCSC
